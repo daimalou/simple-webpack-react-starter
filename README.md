@@ -4,7 +4,7 @@
 Creat-React-App is very easy to use. I want to know how they made it. So I `npm eject` and analysis `webpack.config.js`.
 
 
-I Separated two config files - `webpack.dev.js` and `webpack.prod.js` from it. [Use one config file.](https://webpack.js.org/configuration/configuration-types/#exporting-a-function)
+I Separated two config files `webpack.dev.js` and `webpack.prod.js` from it. [Use one config file. Do This.](https://webpack.js.org/configuration/configuration-types/#exporting-a-function)
 
 
 ### Creat-React-App is amazing. I learn a lot from it !!!
