@@ -9,11 +9,9 @@ I Separated two config files - `webpack.dev.js` and `webpack.prod.js` from it. [
 
 ### Creat-React-App is amazing. I learn a lot from it !!!
 
-Some plugins are not installed . It's a little hard to config. Such as:
+Some plugins are not installed . It's a little hard to config. 
 
-[react-dev-utils](https://www.npmjs.com/package/react-dev-utils)
-
-...
+Such as: [react-dev-utils](https://www.npmjs.com/package/react-dev-utils) ...
 
 
 # VS Code Plugin
