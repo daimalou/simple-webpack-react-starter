@@ -1,6 +1,6 @@
 # Simple Webpack React Starter  -  [ParcelJS Version](https://github.com/daimalou/simple-parcel-react-starter)
 
-Creat-React-App is very easy to use. I want to know how they did it. So I `npm eject` and analysis `webpack.config.js`. It's amazing.
+Creat-React-App is very easy to use. I want to know how they did it. So I `npm eject` and analysis `webpack.config.js`.
 
 I Separated two config files - `webpack.dev.js` and `webpack.prod.js` from creat-react-app. [Use one config file.](https://webpack.js.org/configuration/configuration-types/#exporting-a-function)
 
