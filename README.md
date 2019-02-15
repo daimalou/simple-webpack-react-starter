@@ -2,6 +2,9 @@
 
 Very Simple.
 
+Two Webpack config files - `webpack.dev.js` and `webpack.prod.js` - Separated from creat-react-app.
+
+
 + [Parcel Version](https://github.com/daimalou/simple-parcel-react-starter)
 
 
