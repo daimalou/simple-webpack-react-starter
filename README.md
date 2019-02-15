@@ -2,6 +2,8 @@
 
 Very Simple.
 
++ [Parcel Version](https://github.com/daimalou/simple-parcel-react-starter)
+
 
 # VS Code Plugin
 
