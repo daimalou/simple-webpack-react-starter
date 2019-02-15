@@ -4,8 +4,12 @@ Very Simple.
 
 Two Webpack config files - `webpack.dev.js` and `webpack.prod.js` - Separated from creat-react-app.
 
+[Use one config file.](https://webpack.js.org/configuration/configuration-types/#exporting-a-function)
 
-+ [Parcel Version](https://github.com/daimalou/simple-parcel-react-starter)
+It's lite. Some features are not supported now.
+
+Some plugins are not install.
+
 
 
 # VS Code Plugin
