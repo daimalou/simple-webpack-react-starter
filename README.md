@@ -90,7 +90,7 @@ sass-loader
 
 [file-loader](https://github.com/webpack-contrib/file-loader) - Load SVG
 
-@svgr/webpack -Load SVG
+[@svgr/webpack](https://www.npmjs.com/package/@svgr/webpack) -Load SVG
 
 postcss-loader
 
