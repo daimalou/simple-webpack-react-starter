@@ -102,3 +102,7 @@ mini-css-extract-plugin
 optimize-css-assets-webpack-plugin
 
 case-sensitive-paths-webpack-plugin
+
+# Not Include
+
+[Jest](https://github.com/facebook/jest)
