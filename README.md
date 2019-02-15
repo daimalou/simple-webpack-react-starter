@@ -1,4 +1,4 @@
-# Simple Webpack React Starter
+# Simple Webpack React Starter [Parcel Version](https://github.com/daimalou/simple-parcel-react-starter)
 
 Very Simple.
 
