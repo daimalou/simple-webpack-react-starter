@@ -70,13 +70,13 @@ webpack
 
 webpack-cli
 
-webpack-dev-server
+webpack-dev-server - Support HMR
 
 webpack-manifest-plugin
 
 [Loaders Page](https://webpack.js.org/loaders)
 
-babel-loader
+[babel-loader](https://github.com/babel/babel-loader)
 
 eslint-loader
 
@@ -86,11 +86,11 @@ css-loader
 
 sass-loader
 
-url-loader
+[url-loader](https://github.com/webpack-contrib/url-loader)
 
-file-loader
+[file-loader](https://github.com/webpack-contrib/file-loader) - Load SVG
 
-@svgr/webpack
+@svgr/webpack -Load SVG
 
 postcss-loader
 
@@ -104,13 +104,13 @@ postcss-safe-parser
 
 terser-webpack-plugin
 
-clean-webpack-plugin
+clean-webpack-plugin - Auto clean build folder.
 
 html-webpack-plugin
 
-mini-css-extract-plugin
+[mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) - Extract Css file
 
-optimize-css-assets-webpack-plugin
+[optimize-css-assets-webpack-plugin](https://www.npmjs.com/package/optimize-css-assets-webpack-plugin)
 
 case-sensitive-paths-webpack-plugin
 
@@ -140,13 +140,19 @@ npm run start && npm run build
 
 ## Resources
 
-[Parcel Documentation](https://parceljs.org/getting_started.html)
+[Webpack Documentation](https://webpack.js.org/concepts)
 
 [Babel Plugins](https://babeljs.io/docs/en/plugins)
 
 [Configuring ESLint](https://eslint.org/docs/user-guide/configuring#specifying-parser-options)
 
 [babel-preset-react-app](https://www.npmjs.com/package/babel-preset-react-app) -Official Babel Preset - [Issues#2377](https://github.com/facebook/create-react-app/issues/2377)
+
+[splitChunks not working as expected](https://github.com/webpack/webpack/issues/6916)
+
+[Webpack 4 splitChunks causes reused chunks to not be executed](https://github.com/webpack/webpack/issues/7230)
+
+[]()
 
 ## License
 
