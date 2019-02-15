@@ -56,30 +56,49 @@ Very Simple.
 [webpack Page](https://webpack.js.org/)
 
 webpack
+
 webpack-cli
+
 webpack-dev-server
+
 webpack-manifest-plugin
 
 [Loaders Page](https://webpack.js.org/loaders)
 
 babel-loader
+
 eslint-loader
+
 style-loader
+
 css-loader
+
 sass-loader
+
 url-loader
+
 file-loader
+
 @svgr/webpack
+
 postcss-loader
+
 postcss-flexbugs-fixes
+
 postcss-preset-env
+
 postcss-safe-parser
 
 [Plugins Page](https://webpack.js.org/plugins)
 
 terser-webpack-plugin
+
 clean-webpack-plugin
+
 html-webpack-plugin
+
 mini-css-extract-plugin
+
 optimize-css-assets-webpack-plugin
+
 case-sensitive-paths-webpack-plugin
