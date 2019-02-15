@@ -1,15 +1,14 @@
 # Simple Webpack React Starter  -  [ParcelJS Version](https://github.com/daimalou/simple-parcel-react-starter)
 
-Very Simple.
+Very Simple and Lite.
 
-Two Webpack config files - `webpack.dev.js` and `webpack.prod.js` - Separated from creat-react-app.
+Two Webpack config files - `webpack.dev.js` and `webpack.prod.js` - Separated from creat-react-app. [Use one config file.](https://webpack.js.org/configuration/configuration-types/#exporting-a-function)
 
-[Use one config file.](https://webpack.js.org/configuration/configuration-types/#exporting-a-function)
+Some plugins are not install. It's a little hard to config.
 
-It's lite. Some features are not supported now.
+[react-dev-utils](https://www.npmjs.com/package/react-dev-utils)
 
-Some plugins are not install.
-
+### creat-react-app is very very very good. I learn a lot from it !!!
 
 
 # VS Code Plugin
