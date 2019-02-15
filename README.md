@@ -49,7 +49,7 @@ Very Simple.
 
 [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
 
-[eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app)
+[eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app) -Official Eslint Preset 
 
 ### Webpack and Loader and Plugins:
 
@@ -103,6 +103,40 @@ optimize-css-assets-webpack-plugin
 
 case-sensitive-paths-webpack-plugin
 
+
 # Not Include
 
 [Jest](https://github.com/facebook/jest)
+
+
+## Download
+
+```
+git clone https://github.com/daimalou/simple-webpack-react-starter
+cd simple-webpack-react-starter
+yarn or npm i
+```
+
+## Dev && Build
+
+```
+yarn start && yarn build
+npm run start && npm run build
+```
+
+## ScreenShot
+![ScreenShot](./screenshot.png)
+
+## Resources
+
+[Parcel Documentation](https://parceljs.org/getting_started.html)
+
+[Babel Plugins](https://babeljs.io/docs/en/plugins)
+
+[Configuring ESLint](https://eslint.org/docs/user-guide/configuring#specifying-parser-options)
+
+[babel-preset-react-app](https://www.npmjs.com/package/babel-preset-react-app) -Official Babel Preset - [Issues#2377](https://github.com/facebook/create-react-app/issues/2377)
+
+## License
+
+MIT
