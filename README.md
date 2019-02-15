@@ -49,7 +49,7 @@ Very Simple.
 
 [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
 
-[eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app) -Official Eslint Preset 
+[eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app) -Official Eslint Preset. Easy to use.
 
 ### Webpack and Loader and Plugins:
 
